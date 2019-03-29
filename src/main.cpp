@@ -18,6 +18,7 @@ int main()
 {
 	Global = new GlobalClass();
 	Global->EnableDebugMessages();
+	Global->deneme();
 
 	delete Global;
 	return 0;

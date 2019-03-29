@@ -24,3 +24,9 @@ void GlobalClass::DisableDebugMessages()
 {
 	is_debug_messages_enabled = false;
 }
+
+void GlobalClass::deneme()
+{
+	
+}
+

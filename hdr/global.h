@@ -11,6 +11,7 @@ class GlobalClass
 		~GlobalClass();
 		void EnableDebugMessages();
 		void DisableDebugMessages();
+		void deneme();
 
 };
 
