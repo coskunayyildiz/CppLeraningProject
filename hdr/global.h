@@ -9,6 +9,7 @@ class GlobalClass
 	public:
 		GlobalClass();
 		~GlobalClass();
+		void ShowTestBranchInfo();
 		void EnableDebugMessages();
 		void DisableDebugMessages();
 		void deneme();

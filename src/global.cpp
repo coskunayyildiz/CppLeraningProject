@@ -31,3 +31,9 @@ void GlobalClass::deneme()
 	cout << "Bu satiri yok et" << endl;
 }
 
+void GlobalClass::ShowTestBranchInfo()
+{
+	cout << "Test branch has been created" << endl;
+}
+
+

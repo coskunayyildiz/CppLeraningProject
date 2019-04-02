@@ -19,6 +19,7 @@ int main()
 	Global = new GlobalClass();
 	Global->EnableDebugMessages();
 	Global->deneme();
+	Global->ShowTestBranchInfo();
 
 	delete Global;
 	return 0;
