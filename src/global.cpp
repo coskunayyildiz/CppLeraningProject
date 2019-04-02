@@ -27,6 +27,6 @@ void GlobalClass::DisableDebugMessages()
 
 void GlobalClass::deneme()
 {
-	
+	cout << "This is the Deneme method" << endl;
 }
 
