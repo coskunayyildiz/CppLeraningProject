@@ -10,6 +10,7 @@ class GlobalClass
 		GlobalClass();
 		~GlobalClass();
 		void ShowTestBranchInfo();
+		void GeneralTestRoutines();
 		void EnableDebugMessages();
 		void DisableDebugMessages();
 		void deneme();

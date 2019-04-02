@@ -36,4 +36,9 @@ void GlobalClass::ShowTestBranchInfo()
 	cout << "Test branch has been created" << endl;
 }
 
+void GlobalClass::GeneralTestRoutines()
+{
+	cout << "GeneralTestRoutines for all test branches" << endl;
+}
+
 

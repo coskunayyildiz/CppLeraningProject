@@ -20,6 +20,7 @@ int main()
 	Global->EnableDebugMessages();
 	Global->deneme();
 	Global->ShowTestBranchInfo();
+	Global->GeneralTestRoutines();
 
 	delete Global;
 	return 0;
