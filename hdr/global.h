@@ -13,6 +13,7 @@ class GlobalClass
 		void GeneralTestRoutines();
 		void EnableDebugMessages();
 		void DisableDebugMessages();
+		void TestSendsToUnittest();
 		void deneme();
 
 };

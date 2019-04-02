@@ -41,4 +41,8 @@ void GlobalClass::GeneralTestRoutines()
 	cout << "GeneralTestRoutines for all test branches" << endl;
 }
 
+void GlobalClass::TestSendsToUnittest()
+{
+	cout << "TestSendsToUnittest for all test branches" << endl;
+}
 

@@ -21,6 +21,7 @@ int main()
 	Global->deneme();
 	Global->ShowTestBranchInfo();
 	Global->GeneralTestRoutines();
+	Global->TestSendsToUnittest();
 
 	delete Global;
 	return 0;
