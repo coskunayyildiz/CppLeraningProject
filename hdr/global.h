@@ -14,6 +14,7 @@ class GlobalClass
 		void EnableDebugMessages();
 		void DisableDebugMessages();
 		void TestSendsToUnittest();
+		void StartTest();
 		void deneme();
 
 };

@@ -46,3 +46,8 @@ void GlobalClass::TestSendsToUnittest()
 	cout << "TestSendsToUnittest for all test branches" << endl;
 }
 
+void GlobalClass::StartTest()
+{
+	cout << "StartTest for all test branches" << endl;
+}
+
